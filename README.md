@@ -3,6 +3,7 @@
 A planned pricing spreadsheet for home bakers and cottage-food sellers who sell the same bakes through several channels (Etsy, Instagram/direct, farmers market): recipe cost plus packaging, spoilage, and each channel's fees, so pre-built estimated margin scenarios per channel sit side by side for the same product. Intended price $14.99 one-time.
 
 - Validation page: https://alapha888.github.io/home-baker-pricing-waitlist/
+- Validation post (public, 2026-10-14): https://gist.github.com/alapha888/f8e22b324cd9a5e60010791cbd9ef409 — "20 Signups or Kill It: Testing a Multi-Channel Pricing Tool for Bakers"
 - Status: product not built. This repo contains only the validation page — no product files.
 - Decision line: 20 signups within 30 days (by 2026-11-13) → start full production; below that → drop the idea and notify every signup by email.
 - Intended price (validation parameter): $14.99 one-time. No payment, no pre-order.
